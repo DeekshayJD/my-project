@@ -7,5 +7,5 @@ def find_duplicates(l):
          duplicates.append(i)
     return duplicates
 
-l=[1,2,3,1,2,4]
+l=[1,6,5,4,3,2,3]
 print(find_duplicates(l))
